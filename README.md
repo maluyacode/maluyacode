@@ -1,7 +1,6 @@
 [![An image of @maluyacode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maluyacode)](https://holopin.io/@maluyacode)
 <h3 align="center"> Hi there 👋 Let's volt in! </h3> 
 
-<br>
 -  🔭 I’m currently working on **school projects and side projects.**
 
 - 🌱 I’m currently learning **anything related to programming.**
