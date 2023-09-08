@@ -1,20 +1,14 @@
-[![An image of @maluyacode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maluyacode)](https://holopin.io/@maluyacode)
+<!-- [![An image of @maluyacode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maluyacode)](https://holopin.io/@maluyacode)
+-->
 <h3 align="center"> Hi there 👋 Let's volt in! </h3> 
 
 -  🔭 I’m currently working on **school projects and side projects.**
-
 - 🌱 I’m currently learning **anything related to programming.**
-
 - 👯 I’m looking to collaborate on **anything related to programming.**
-
 - 🤝 I’m looking for help with **professionals.**
-
 - 👨‍💻 All of my projects are available at [https://maluyacode.github.io/](https://maluyacode.github.io/)
-
 - 💬 Ask me about **anything,**
-
 - 📫 How to reach me **adlawandavemerc98@gmail.com**
-
 - ⚡ Fun fact **Coding 5 minutes, debugging 2 hours.**
 
 <br>
