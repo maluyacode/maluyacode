@@ -1,5 +1,5 @@
 [![An image of @maluyacode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maluyacode)](https://holopin.io/@maluyacode)
-<a href=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/codeeee_is_lifeeee/" height="50" width="60" /></a>
+<a href=""></a>
 <a href=""></a>
 <h3 align="center"> Hi there 👋 Let's volt in! </h3> 
 <a href=""></a>
