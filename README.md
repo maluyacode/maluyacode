@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on school projects and side projects.
 - 🌱 I’m currently learning anything related to programming.
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on building a team.
 - 🤔 I’m looking for help with professionals.
 - 💬 Ask me about anything.
 - 📫 How to reach me: www.linkedin.com/in/dave-merc-adlawan-aa2801262
