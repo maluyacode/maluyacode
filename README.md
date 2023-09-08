@@ -1,4 +1,5 @@
-### Hi there 👋
+[![An image of @maluyacode's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maluyacode)](https://holopin.io/@maluyacode)
+<h3 align="center"> Hi there 👋 Let's volt in! </h3>
 
 <!--
 **maluyacode/maluyacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
